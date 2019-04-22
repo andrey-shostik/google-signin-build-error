@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "611315984572",
+    "firebase_url": "https://test-efe13.firebaseio.com",
+    "project_id": "test-efe13",
+    "storage_bucket": "test-efe13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611315984572:android:8360705999514780",
+        "android_client_info": {
+          "package_name": "com.hydronom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611315984572-mjp2pgg81o67181hogmfh1sn3dim7lbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydronom",
+            "certificate_hash": "a9baafe2af7d893a068e7e8de82b64ffa5a3c7aa"
+          }
+        },
+        {
+          "client_id": "611315984572-1pn71obh0v5e9pk1nkpbb3n70qil9gm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hydronom",
+            "certificate_hash": "b6c740290df01d454c48e5871f3516c22bc0d301"
+          }
+        },
+        {
+          "client_id": "611315984572-tspd873cllajqfamtb4q5do768di6fe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfC1cabxgglI4TQvLRMPDyz3tJdIpZA8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611315984572-tspd873cllajqfamtb4q5do768di6fe2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611315984572-e5mckcs3f1clp2sq68e1ksm39i4ithnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.hydronom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
